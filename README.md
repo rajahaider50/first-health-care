@@ -1,6 +1,7 @@
 # First Health Care (Pvt) Ltd — Web Platform & Care Coordination Engine
 
 > **Target:** [https://firsthealthcare.pk/](https://firsthealthcare.pk/)  
+> **Live Production Host:** [https://doctor-mu-bice.vercel.app](https://doctor-mu-bice.vercel.app)  
 > **Geographic Coverage:** Islamabad, Rawalpindi, DHA Phase 1 & 2, Bahria Town (Phases 1–8)  
 > **Direct Care Desk:** `0304 5121772` | `info@firsthealthcare.pk`  
 > **Brand Principle:** *Human care. Clearly coordinated.*
